@@ -1,0 +1,8 @@
+{
+  "name": "Universal Options Market Dashboard",
+  "description": "Production-grade derivatives market-data and options analytics engine with Angel One SmartAPI, Oracle Cloud, Redis, PostgreSQL, FastAPI, and Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
